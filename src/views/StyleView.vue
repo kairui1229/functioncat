@@ -30,7 +30,7 @@ const handleStyleChange = (slug) => {
     <div :class="gradientBgPurplePink" class="flex min-h-screen items-center justify-center">
       <SectionMain>
         <h1 class="text-4xl md:text-5xl text-center text-white font-bold mt-12 mb-3 lg:mt-0">
-          Pick a style&hellip;
+          &hellip;
         </h1>
         <h2 class="text-xl md:text-xl text-center text-white mb-12">
           Style switching with a single
